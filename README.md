@@ -211,10 +211,25 @@ This system helps organizations **remove biased language from job advertisements
 
 ---
 
-## 👨‍💻 Author
+## 👥 Team Members
 
-**Kothapalli Yashwanth**  
-Domain: Data Science and Machine Learning
+- **Team Member 1:** Kothapalli Yashwanth 
+- **Team Member 2:** Yuktha V
+- **Team Member 3:** Dimple K B  
+- **Team Member 4:** Ananya M 
+- **Team Member 5:** Vinay mn  
+- **Team Member 6:** Anmol C Satakhed
+- **Team Member 7:** Madhu Chandrika V  
+- **Team Member 8:** Pratham Jaiswal  
+- **Team Member 9:** Iram sultana  
+- **Team Member 10:** Aptha H P  
+- **Team Member 11:** Annapurna Deshmukh  
+- **Team Member 12:** Muzamil Pasha N  
+- **Team Member 13:** Keerthana A L 
+- **Team Member 14:** Kruthanva R  
+- **Team Member 15:** Varun R  
+
+---
 
 ---
 
